@@ -1,0 +1,16 @@
+/* O título e cada parágrafo devem ter cor de fonte diferentes[cite: 18] */
+h1 {
+    color: #0033A0; /* Azul Cruzeiro */
+}
+
+#paragrafo-historia {
+    color: #2F4F4F; /* Cinza Escuro */
+}
+
+#paragrafo-tatica {
+    color: #8B0000; /* Vermelho Escuro */
+}
+
+#paragrafo-rivalidade {
+    color: #4B0082; /* Índigo */
+}
